@@ -1,0 +1,23 @@
+A008    26    1    126    80    182    05/22/09 M    11/11/05 $25
+A005    33    1    136    76    174    02/27/09 F    02/24/05 $45
+A005    31    2    132    78    175    07/11/09 F    02/24/05 $45
+A005    29    3    134    78    176    04/16/09 F    02/24/05 $45
+A004    26    1    143    86    204    03/30/09 .    01/27/06 $20
+A003    38    1    118    68    125    08/12/09 F    08/17/07 $45
+A003    41    2    112    65    123    08/21/09 F    08/17/07 $25
+A002    22    1    121    75    168    04/14/09 M    06/15/06 $25
+A001    23    1    140    85    195    11/05/09 M    05/22/07 $35
+A001    38    2    138    90    198    10/13/09 M    05/22/07 $35
+A001    35    3    145    95    200    07/04/09 M    05/22/07 $35
+
+Variable Description:
+      PTID = patient ID        
+          Age = age at time of visit            
+          Visit = visit sequence        
+          SysBP = systolic blod pressure       
+          DiasBP = diastolic blood pressure        
+          Weight = weight at the visit     
+          VisitDate = visit date      
+          Sex =           
+          FirstVisit    
+          Copay 
